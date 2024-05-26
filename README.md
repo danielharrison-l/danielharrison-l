@@ -14,7 +14,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/harrisondaniell/harrisondaniell/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/harrisondaniell/harrisondaniell/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
