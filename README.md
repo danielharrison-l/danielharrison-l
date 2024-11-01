@@ -1,6 +1,6 @@
 ###
 
-<p align="left">What's up! I'm a back-end developer. Computer engineering student.</p>
+<p align="left">What's up! I'm a back-end developer.Computer Engineering Student at Federal University of Pará.</p>
 
 ###
 
