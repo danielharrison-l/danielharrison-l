@@ -4,15 +4,15 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel-harrisonn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6A0DAA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=533a71&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="mailto:contatodanielharrison@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6A0DAA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=533a71&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
   <a href="https://x.com/_danieldev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=6A0DAA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=533a71&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=6A0DAA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=533a71&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
 </div>
 
 ###
