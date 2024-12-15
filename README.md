@@ -1,55 +1,66 @@
-###
-
-<p align="left">What's up! I'm a back-end developer.Computer Engineering Student at Federal University of Pará.</p>
+<h1 align="left">Hi there! Welcome to my Github profile.</h1>
 
 ###
 
-
+<br clear="both">
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrisondaniell&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-<div align="left">
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c-sharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-
-###
-
-<div align="left">
-<a href="http://www.linkedin.com/in/daniel-harrisonn/" target="_blank" rel="noopener noreferrer">  
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-<a href="mailto:contatodanielharrison@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/daniel-harrisonn/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:contatodanielharrison@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/_danieldev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="twitter logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="youtube logo"  />
 </div>
 
 ###
 
-<div align="center">
+<h3 align="left">My name is Daniel Harrison</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<p align="left">👨‍💻 Backend Developer | Freelance Projects <br><br>🎓 Engineering Student @UFPA - Computer Engineering<br><br>📚 Currently studying application performance optimization.<br><br>⚽Passionate about RPG games and enjoy playing soccer in my free time.</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrisondaniell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=ocean_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=harrisondaniell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://profile-counter.glitch.me/harrisondaniell/count.svg?"  />
 </div>
 
