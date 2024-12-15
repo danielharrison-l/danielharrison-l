@@ -4,20 +4,20 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel-harrisonn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6A0DAA&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
   </a>
   <a href="mailto:contatodanielharrison@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6A0DAA&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
   </a>
   <a href="https://x.com/_danieldev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=6A0DAA&logoColor=white&labelColor=&style=flat" height="27" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=6A0DAA&logoColor=white&labelColor=&style=flat" height="27" alt="youtube logo"  />
 </div>
 
 ###
 
-<h3 align="left">My name is Daniel Harrison</h3>
+<h2 align="left">My name is Daniel Harrison</h2>
 
 ###
 
