@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel-harrisonn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
