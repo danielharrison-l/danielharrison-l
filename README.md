@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/daniel-harrisonn/" target="_blank">
+  <a href="https://www.linkedin.com/in/danielharrison-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=512ba1&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="mailto:contatodanielharrison@gmail.com" target="_blank">
@@ -54,14 +54,14 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrisondaniell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=ocean_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=harrisondaniell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielharrison-l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=ocean_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielharrison-l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/harrisondaniell/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/danielharrison-l/count.svg?"  />
 </div>
 
 ###
