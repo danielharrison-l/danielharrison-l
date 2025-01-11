@@ -34,8 +34,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="5" />
-    <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
