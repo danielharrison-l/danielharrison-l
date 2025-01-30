@@ -22,19 +22,19 @@
 ###
 
 <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="java logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="java logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="5" />
