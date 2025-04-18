@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">👨‍💻 Backend Developer | Freelance Projects <br><br>🎓 Engineering Student @UFPA - Computer Engineering<br><br>📚 Currently studying application performance optimization<br><br>⚽Passionate about RPG games and enjoy playing soccer in my free time</p>
+<p align="left">👨‍💻 Backend Developer | Freelance Projects <br><br>🎓 Student - Computer Science<br><br>📚 Currently studying application performance optimization<br><br>⚽Passionate about RPG games and enjoy playing soccer in my free time</p>
 
 ###
 
