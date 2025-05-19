@@ -22,10 +22,6 @@
 ###
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -34,7 +30,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="5" />
