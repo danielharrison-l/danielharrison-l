@@ -17,10 +17,6 @@
 
 ###
 
-<h2 align="left">My name is Daniel Harrison</h2>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="5" />
@@ -50,7 +46,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielharrison-l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=ocean_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielharrison-l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=danielharrison-l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
 </div>
 
