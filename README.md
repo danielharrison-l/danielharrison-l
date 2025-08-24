@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">👨‍💻 Backend Developer | Freelance Projects <br><br>📚 Currently studying application performance optimization<br><br></p>
+<p align="left">👨‍💻 Software Developer | Freelance Projects <br><br>📚 Currently studying application performance optimization<br><br></p>
 
 ###
 
