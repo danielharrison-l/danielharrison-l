@@ -24,9 +24,15 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="5" />
@@ -47,7 +53,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielharrison-l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=danielharrison-l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
 </div>
 
 ###
