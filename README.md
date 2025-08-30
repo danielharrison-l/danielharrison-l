@@ -47,13 +47,13 @@
 
 ###
 
-<p align="left">👨‍💻 Software Developer | Freelance Projects <br><br>📚 Currently studying application performance optimization<br><br></p>
+<p align="left">👨‍💻 Software Developer | Freelance Projects <br><br>📚 Currently studying system design<br><br></p>
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielharrison-l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
+ </div> -- >
 
 ###
 
