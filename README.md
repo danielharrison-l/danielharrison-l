@@ -28,10 +28,10 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-  <img width="5" />
+  <img width="5" />-->
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
