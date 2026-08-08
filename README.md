@@ -12,7 +12,6 @@
   <a href="https://x.com/_danieldev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=512ba1&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=512ba1&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
 </div>
 
 ###
@@ -47,7 +46,7 @@
 
 ###
 
-<p align="left">👨‍💻 Software Developer | Freelance Projects <br><br>📚 Currently studying system design<br><br></p>
+<p align="left">Software Developer | Freelance Projects <br><br>📚 Currently studying system design<br><br></p>
 
 ###
 
